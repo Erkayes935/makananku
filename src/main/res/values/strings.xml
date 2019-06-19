@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MakananKu</string>
+    <string name="pilih">Pilih</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="bahan_bahan">Bahan - bahan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="jenis">jenis</string>
+    <string name="foto">Foto</string>
+</resources>
